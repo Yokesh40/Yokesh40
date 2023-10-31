@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yokesh40
-- 👀 I’m interested in could
-- 🌱 I’m currently learning could computing
+- 👀 I’m interested in full stack
+- 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me insta:@yokeshking007
 
